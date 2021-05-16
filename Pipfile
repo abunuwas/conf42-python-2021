@@ -5,9 +5,9 @@ verify_ssl = true
 
 [dev-packages]
 dredd-hooks = "*"
+datamodel-code-generator = "*"
 
 [packages]
-datamodel-code-generator = "*"
 fastapi = "*"
 uvicorn = "*"
 
